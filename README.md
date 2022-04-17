@@ -33,7 +33,7 @@
   <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="Tableau" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali_linux" width="60" height="60"/> 
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg" alt="wireshark" width="55" height="110"/>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="60" height="60"/>
 </p>
 
 
