@@ -3,7 +3,7 @@
 <h3 align="center">Year 2 Business Analytics Student at National University of Singapore</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=KohSiXing"&style=plastic/> 
+  <img src="https://komarev.com/ghpvc/?username=KohSiXing&style=plastic"/> 
 </p>
 
 
