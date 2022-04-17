@@ -15,8 +15,7 @@
 
 💬 Ask me about **anything about Business Analytics, ML or Cybersecurity**
 
-
-<h3>📫 Find me at: </h3>
+📫 Find me at:
 <p>
 <a href="https://sg.linkedin.com/in/kohsixing/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
