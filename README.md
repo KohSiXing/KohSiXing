@@ -9,21 +9,26 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning & Feature Engineering**
+🌱 I’m currently learning **Machine Learning & Feature Engineering**
 
-- 🤖 I’m looking to collaborate on **Research Projects**
+🤖 I’m looking to collaborate on **Research Projects**
 
-- 💬 Ask me about **anything about Business Analytics, ML or Cybersecurity**
+💬 Ask me about **anything about Business Analytics, ML or Cybersecurity**
 
-- 📫 Find me at **....**
 
+<h3>📫 Find me at: </h3>
+<p>
+<a href="https://sg.linkedin.com/in/kohsixing/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 
 
 ### Languages and Skills
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60" padding="1%"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
