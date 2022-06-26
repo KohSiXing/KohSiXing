@@ -13,7 +13,7 @@
 
 🤖 I’m looking to collaborate on **Research Projects**
 
-💬 Ask me about **anything about Business Analytics, ML or Cybersecurity**
+💬 Ask me anything about **Business Analytics, ML or Cybersecurity**
 
 📫 Find me at:
 <p>
