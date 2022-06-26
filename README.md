@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Si Xing <img src="https://github.com/zachflauaus/emoji-repo/blob/master/images/starwars-the-mandalorian.png" alt="mando" width="24" height="24"/></h1>
 
-<h3 align="center">Year 2 Business Analytics Student at National University of Singapore</h3>
+<h3 align="center">Year 3 Business Analytics Student at National University of Singapore</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=KohSiXing&style=plastic"/> 
@@ -37,7 +37,6 @@
   <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="Tableau" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali_linux" width="60" height="60"/> 
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="60" height="60"/>
 </p>
 
 
