@@ -9,7 +9,7 @@
 
 
 
-🌱 I’m currently learning **Machine Learning & Feature Engineering**
+🌱 I’m currently learning **Machine Learning & Financial Analytics**
 
 🤖 I’m looking to collaborate on **Research Projects**
 
