@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql"width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" height="60"/>
   <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="Tableau" width="60" height="60"/> 
-  <img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" alt="ubuntu" width="50" height="50" padding="0.5%"/>
+  <img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" alt="ubuntu" width="50" height="50" style="padding : 0.5%"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali_linux" width="60" height="60"/> 
 </p>
 
