@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Si Xing <img src="https://github.com/zachflauaus/emoji-repo/blob/master/images/starwars-the-mandalorian.png" alt="mando" width="24" height="24"/></h1>
 
-<h3 align="center">Research Assistant at the National University of Singapore</h3>
+<h3 align="center">M.Sc. DSML Student at the National University of Singapore</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=KohSiXing&style=plastic"/> 
@@ -9,11 +9,11 @@
 
 
 
-🌱 I’m currently learning **Machine Learning & Financial Analytics**
+🌱 I’m currently learning **Data Science & Distributed Systems**
 
 🤖 I’m looking to collaborate on **Research Projects**
 
-💬 Ask me anything about **Business Analytics, ML or Cybersecurity**
+💬 Ask me anything about **Data Science, ML or Cybersecurity**
 
 📫 Find me at:
 <p>
