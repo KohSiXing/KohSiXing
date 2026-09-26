@@ -38,13 +38,3 @@
   <img src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" alt="ubuntu" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali_linux" width="60" height="60"/> 
 </p>
-
-
-
-
-<p align="center">
-<a href="https://github.com/KohSiXing">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KohSiXing&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="KohSiXing"/>
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=KohSiXing&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="KohSiXing"/>
-</a>
-</p>
